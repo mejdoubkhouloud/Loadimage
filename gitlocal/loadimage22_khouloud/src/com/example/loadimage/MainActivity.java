@@ -156,38 +156,7 @@ public class MainActivity extends Activity implements OnClickListener {
 	@Override
 	protected void onCreate(Bundle savedInstanceState)
 	{                 
-		//RumMobileAgent.setOption(RMConstant.RM_CONFIG_PARAMETER_SEND_FREQUENCY,10);
-		//RumMobileAgent.setOption(RMConstant.RM_CONFIG_PARAMETER_WEBSERVICE,RMConstant.RM_WebServiceLocal);
-	//	RumMobileAgent.setOption(RMConstant.RM_CONFIG_PARAMETER_CONSOLE_LOG_LEVEL,6);
-		
-		//RumMobileAgent.setOption(RMConstant.RM_CONFIG_PARAMETER_MAX_LIMIT_INTERCEPTION,9);  
-		    
-//		RumMobileAgent.enableFeatures(RMConstant.RM_TRACE_CRASH_FLAG);
-//		RumMobileAgent.enableFeatures(RMConstant.RM_TRACE_CRASH_REPORT_FLAG);
-//	    RumMobileAgent.enableFeatures(RMConstant.RM_SEND_CRASH_IMMEDIATELY_FLAG);
-	          
-		//RumMobileAgent.setOption(RMConstant.RM_CONFIG_PARAMETER_WEBSERVICE, RMConstant.RM_WebServiceLocal);
-		//RumMobileAgent.setOption(RMConstant.RM_CONFIG_PARAMETER_MAX_LIMIT_INTERCEPTION,2);	
-		//RumMobileAgent.enableFeatures(RMConstant.RM_TRACE_LOCALIZATION_FLAG);
-		//RumMobileAgent.enableFeatures(RMConstant.RM_TRACE_CUSTOM_INTERACTIONS_FLAG);
-		//RumMobileAgent.enableFeatures(RMConstant.RM_TRACE_AGENT_LOG_FLAG);
-		//RumMobileAgent.enableFeatures(RMConstant.RM_TRACE_CRASH_FLAG);
-		//RumMobileAgent.enableFeatures(RMConstant.RM_TRACE_CRASH_REPORT_FLAG);		
-		//RumMobileAgent.disableFeatures(RMConstant.RM_SEND_CRASH_IMMEDIATELY_FLAG); 
-		//RumMobileAgent.setOption(RMConstant.RM_CONFIG_PARAMETER_WEBSERVICE,1);  
-		//RumMobileAgent.setOption(RMConstant.RM_CONFIG_PARAMETER_DEBUG_WEBSERVICE,1);		
-		//RumMobileAgent.disableFeatures(RMConstant.RM_SEND_ONLY_WITH_WIFI_FLAG);	
-		 //RumMobileAgent.enableFeatures(RMConstant.RM_TRACE_CUSTOM_INTERACTIONS_FLAG);   
-		//RumMobileAgent.enableFeatures(RMConstant.RM_TRACE_SCREEN_LOAD_INTERACTIONS_FLAG);    
-		//RumMobileAgent.enableFeatures(RMConstant.RM_TRACE_SCREEN_DISPALY_INTERACTIONS_FLAG);
-		//RumMobileAgent.disableFeatures(RMConstant.RM_TRACE_SCREEN_LOAD_INTERACTIONS_FLAG);
-		//RumMobileAgent.disableFeatures(RMConstant.RM_TRACE_SCREEN_DISPALY_INTERACTIONS_FLAG);
-		//Dev    
-		//RumMobileAgent.setupApplicationWithToken("dca545bc78752ae38bafa1b1925cc5e03025aecd2ret").start(getApplicationContext());
-		//Prod 	 	       
-	     //RumMobileAgent.setupApplicationWithToken("cc505876cfa2151feca1918401f8cbe304659fe82ret").start(getApplicationContext());
-		RumMobileAgent.setupApplicationWithToken("58038ee49c04cb104470df59039b23045d73e4e22ret").start(getApplicationContext());
-		//RumMobileAgent.setupApplicationWithToken("dca545bc78752ae38bafa1b1925cc5e03025aecd2ret").start(getApplicationContext());
+
 		  
 		super.onCreate(savedInstanceState);  
 		setContentView(R.layout.activity_main); 
