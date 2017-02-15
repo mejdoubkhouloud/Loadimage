@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\APM_IPLabel\\loadimage2\\loadimage2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\image.png",
+        "source": "D:\\APM_IPLabel\\loadimage2\\loadimage2\\app\\src\\main\\res\\drawable-ldpi\\image.png"
+    },
+    {
+        "merged": "D:\\APM_IPLabel\\loadimage2\\loadimage2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\xml.png",
+        "source": "D:\\APM_IPLabel\\loadimage2\\loadimage2\\app\\src\\main\\res\\drawable-ldpi\\xml.png"
+    },
+    {
+        "merged": "D:\\APM_IPLabel\\loadimage2\\loadimage2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\sqlite.png",
+        "source": "D:\\APM_IPLabel\\loadimage2\\loadimage2\\app\\src\\main\\res\\drawable-ldpi\\sqlite.png"
+    }
+]

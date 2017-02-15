@@ -1,0 +1,22 @@
+-keep class com.example.loadimage.MainActivity { <init>(); }
+-keep class com.example.loadimage.Test1 { <init>(); }
+-keep class com.example.loadimage.Tes2 { <init>(); }
+-keep class com.example.loadimage.JSONActivity { <init>(); }
+-keep class com.example.loadimage.AndroidHTTPRequestsActivity { <init>(); }
+-keep class com.example.loadimage.WebViewActivity { <init>(); }
+-keep class com.androidhive.androidsqlite.AndroidSQLiteTutorialActivity { <init>(); }
+-keep class fr.thibaultKoprowski.android.feedPlayer.feedPlayer { <init>(); }
+-keep class in.wptrafficanalyzer.listviewwithxmlpullparser.MainActivityxml { <init>(); }
+-keep class com.download.android.CookieActivity { <init>(); }
+-keep class com.download.android.DownloadActivity { <init>(); }
+-keep class com.download.android.MainActivity { <init>(); }
+-keep class com.download.android.UploadActivity { <init>(); }
+-keep class com.example.loadimage.Testhttpconnction { <init>(); }
+-keep class com.example.loadimage.IOExceptionExample { <init>(); }
+-keep class com.example.loadimage.FileWriteRead { <init>(); }
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+-keep public class * extends java.lang.annotation.Annotation {
+    *;
+}

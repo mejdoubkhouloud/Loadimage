@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="RumMobile">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/RumMobile.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

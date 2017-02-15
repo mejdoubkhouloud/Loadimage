@@ -1,0 +1,168 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .idea\
+* .idea\.name
+* .idea\compiler.xml
+* .idea\copyright\
+* .idea\copyright\profiles_settings.xml
+* .idea\misc.xml
+* .idea\modules.xml
+* .idea\vcs.xml
+* .idea\workspace.xml
+* app\
+* app\build.gradle
+* app\libs\
+* app\libs\RumMobile.jar
+* app\libs\aspectjrt.jar
+* app\libs\httpmime-4.2.5.jar
+* app\lint.xml
+* app\src\
+* app\src\main\
+* app\src\main\AndroidManifest.xml
+* app\src\main\assets\
+* app\src\main\assets\data.xml
+* app\src\main\assets\header.png
+* app\src\main\assets\text\
+* app\src\main\assets\text\text.txt
+* app\src\main\java\
+* app\src\main\java\com\
+* app\src\main\java\com\androidhive\
+* app\src\main\java\com\androidhive\androidsqlite\
+* app\src\main\java\com\androidhive\androidsqlite\AndroidSQLiteTutorialActivity.java
+* app\src\main\java\com\androidhive\androidsqlite\Contact.java
+* app\src\main\java\com\androidhive\androidsqlite\DatabaseHandler.java
+* app\src\main\java\com\download\
+* app\src\main\java\com\download\android\
+* app\src\main\java\com\download\android\CookieActivity.java
+* app\src\main\java\com\download\android\DownloadActivity.java
+* app\src\main\java\com\download\android\MainActivity.java
+* app\src\main\java\com\download\android\UploadActivity.java
+* app\src\main\java\com\example\
+* app\src\main\java\com\example\loadimage\
+* app\src\main\java\com\example\loadimage\AndroidHTTPRequestsActivity.java
+* app\src\main\java\com\example\loadimage\DatabaseHandler.java
+* app\src\main\java\com\example\loadimage\FileCache.java
+* app\src\main\java\com\example\loadimage\FileWriteRead.java
+* app\src\main\java\com\example\loadimage\IOExceptionExample.java
+* app\src\main\java\com\example\loadimage\ImageLoader.java
+* app\src\main\java\com\example\loadimage\JSONActivity.java
+* app\src\main\java\com\example\loadimage\JSONArrayInstrumentation.java
+* app\src\main\java\com\example\loadimage\JSONObjectInstrumentation.java
+* app\src\main\java\com\example\loadimage\MainActivity.java
+* app\src\main\java\com\example\loadimage\MemoryCache.java
+* app\src\main\java\com\example\loadimage\MyDaemonThread.java
+* app\src\main\java\com\example\loadimage\MyListFragment.java
+* app\src\main\java\com\example\loadimage\ServiceHandler.java
+* app\src\main\java\com\example\loadimage\SingleContactActivity.java
+* app\src\main\java\com\example\loadimage\Testhttpconnction.java
+* app\src\main\java\com\example\loadimage\Utils.java
+* app\src\main\java\com\example\loadimage\WebViewActivity.java
+* app\src\main\java\fr\
+* app\src\main\java\fr\thibaultKoprowski\
+* app\src\main\java\fr\thibaultKoprowski\android\
+* app\src\main\java\fr\thibaultKoprowski\android\feedPlayer\
+* app\src\main\java\fr\thibaultKoprowski\android\feedPlayer\ContainerData.java
+* app\src\main\java\fr\thibaultKoprowski\android\feedPlayer\Feed.java
+* app\src\main\java\fr\thibaultKoprowski\android\feedPlayer\FeedView.java
+* app\src\main\java\fr\thibaultKoprowski\android\feedPlayer\ListFeedAdapter.java
+* app\src\main\java\fr\thibaultKoprowski\android\feedPlayer\ParserXMLHandler.java
+* app\src\main\java\fr\thibaultKoprowski\android\feedPlayer\feedPlayer.java
+* app\src\main\java\in\
+* app\src\main\java\in\wptrafficanalyzer\
+* app\src\main\java\in\wptrafficanalyzer\listviewwithxmlpullparser\
+* app\src\main\java\in\wptrafficanalyzer\listviewwithxmlpullparser\CountryXmlParser.java
+* app\src\main\java\in\wptrafficanalyzer\listviewwithxmlpullparser\MainActivityxml.java
+* app\src\main\res\
+* app\src\main\res\drawable-hdpi\
+* app\src\main\res\drawable-hdpi\header.png
+* app\src\main\res\drawable-hdpi\ic_launcher.png
+* app\src\main\res\drawable-hdpi\icon.png
+* app\src\main\res\drawable-hdpi\loader.png
+* app\src\main\res\drawable-hdpi\logo.png
+* app\src\main\res\drawable-ldpi\
+* app\src\main\res\drawable-ldpi\image.png
+* app\src\main\res\drawable-ldpi\sqlite.png
+* app\src\main\res\drawable-ldpi\xml.png
+* app\src\main\res\drawable-mdpi\
+* app\src\main\res\drawable-mdpi\ic_launcher.png
+* app\src\main\res\drawable-mdpi\image.png
+* app\src\main\res\drawable-xhdpi\
+* app\src\main\res\drawable-xhdpi\ic_launcher.png
+* app\src\main\res\drawable-xxhdpi\
+* app\src\main\res\drawable-xxhdpi\ic_launcher.png
+* app\src\main\res\layout\
+* app\src\main\res\layout\act.xml
+* app\src\main\res\layout\activity_cookie.xml
+* app\src\main\res\layout\activity_download.xml
+* app\src\main\res\layout\activity_main.xml
+* app\src\main\res\layout\activity_main1.xml
+* app\src\main\res\layout\activity_single_contact.xml
+* app\src\main\res\layout\activity_upload.xml
+* app\src\main\res\layout\feed_view.xml
+* app\src\main\res\layout\frag.xml
+* app\src\main\res\layout\fragment_main.xml
+* app\src\main\res\layout\httpconnection.xml
+* app\src\main\res\layout\list_item.xml
+* app\src\main\res\layout\lv_layout.xml
+* app\src\main\res\layout\main.xml
+* app\src\main\res\layout\main1.xml
+* app\src\main\res\layout\main2.xml
+* app\src\main\res\layout\mainhttp.xml
+* app\src\main\res\layout\mainsax.xml
+* app\src\main\res\layout\progress.xml
+* app\src\main\res\layout\webview.xml
+* app\src\main\res\values-w820dp\
+* app\src\main\res\values-w820dp\dimens.xml
+* app\src\main\res\values\
+* app\src\main\res\values\analytics.xml
+* app\src\main\res\values\dimens.xml
+* app\src\main\res\values\strings.xml
+* build.gradle
+* gradle\
+* gradle\wrapper\
+* gradle\wrapper\gradle-wrapper.jar
+* gradle\wrapper\gradle-wrapper.properties
+* gradlew
+* gradlew.bat
+* hs_err_pid4352.log
+* hs_err_pid5892.log
+* ic_launcher-web.png
+* loadimage2.iml
+* proguard-project.txt
+* settings.gradle
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets\
+* libs\aspectjrt.jar => app\libs\aspectjrt.jar
+* libs\httpmime-4.2.5.jar => app\libs\httpmime-4.2.5.jar
+* libs\RumMobile.jar => app\libs\RumMobile.jar
+* lint.xml => app\lint.xml
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

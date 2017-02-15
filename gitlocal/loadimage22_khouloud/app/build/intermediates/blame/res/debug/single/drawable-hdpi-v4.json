@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\APM_IPLabel\\loadimage2\\loadimage2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loader.png",
+        "source": "D:\\APM_IPLabel\\loadimage2\\loadimage2\\app\\src\\main\\res\\drawable-hdpi\\loader.png"
+    },
+    {
+        "merged": "D:\\APM_IPLabel\\loadimage2\\loadimage2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\header.png",
+        "source": "D:\\APM_IPLabel\\loadimage2\\loadimage2\\app\\src\\main\\res\\drawable-hdpi\\header.png"
+    },
+    {
+        "merged": "D:\\APM_IPLabel\\loadimage2\\loadimage2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo.png",
+        "source": "D:\\APM_IPLabel\\loadimage2\\loadimage2\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\APM_IPLabel\\loadimage2\\loadimage2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "D:\\APM_IPLabel\\loadimage2\\loadimage2\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\APM_IPLabel\\loadimage2\\loadimage2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\APM_IPLabel\\loadimage2\\loadimage2\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

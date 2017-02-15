@@ -1,0 +1,128 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:2:1-48:12
+	xmlns:android
+		ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:7:5-43
+	android:targetSdkVersion
+		INJECTED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:7:15-40
+		INJECTED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:12:22-73
+application
+ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:14:5-46:19
+	android:label
+		ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:16:9-41
+	android:debuggable
+		ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:17:9-34
+	android:icon
+		ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:15:9-45
+activity#com.example.loadimage.MainActivity
+ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:18:9-25:20
+	android:label
+		ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:20:13-45
+	android:name
+		ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:19:13-62
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.example.loadimage.Test1
+ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:26:9-43
+	android:name
+		ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:26:19-40
+activity#com.example.loadimage.Tes2
+ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:27:9-42
+	android:name
+		ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:27:19-39
+activity#com.example.loadimage.JSONActivity
+ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:28:9-50
+	android:name
+		ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:28:19-47
+activity#com.example.loadimage.AndroidHTTPRequestsActivity
+ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:29:9-86
+	android:name
+		ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:29:19-83
+activity#com.example.loadimage.WebViewActivity
+ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:30:9-32:63
+	android:theme
+		ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:32:13-60
+	android:name
+		ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:31:13-44
+activity#com.androidhive.androidsqlite.AndroidSQLiteTutorialActivity
+ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:33:9-96
+	android:name
+		ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:33:19-93
+activity#fr.thibaultKoprowski.android.feedPlayer.feedPlayer
+ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:34:9-87
+	android:name
+		ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:34:19-84
+activity#in.wptrafficanalyzer.listviewwithxmlpullparser.MainActivityxml
+ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:35:9-99
+	android:name
+		ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:35:19-96
+activity#com.download.android.CookieActivity
+ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:36:9-72
+	android:name
+		ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:36:19-69
+activity#com.download.android.DownloadActivity
+ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:37:9-74
+	android:name
+		ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:37:19-71
+activity#com.download.android.MainActivity
+ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:38:9-70
+	android:name
+		ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:38:19-67
+activity#com.download.android.UploadActivity
+ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:39:9-72
+	android:name
+		ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:39:19-69
+activity#com.example.loadimage.Testhttpconnction
+ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:40:9-41:20
+	android:name
+		ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:40:19-73
+activity#com.example.loadimage.IOExceptionExample
+ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:42:9-43:20
+	android:name
+		ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:42:19-74
+activity#com.example.loadimage.FileWriteRead
+ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:44:9-72
+	android:name
+		ADDED from D:\APM_IPLabel\loadimage2\loadimage2\app\src\main\AndroidManifest.xml:44:19-69

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.loadimage"
+    android:versionCode="1"
+    android:versionName="1.1" >
+
+       <uses-sdk android:minSdkVersion="4" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    
+    <uses-permission android:name="android.permission.GET_TASKS"/>
+    
+<!--    <uses-permission android:name="android.permission.ACCESS_SUPERUSER"/> -->
+
+    <application
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name" >
+        <activity
+            android:name="com.example.loadimage.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Test1"/>
+        <activity android:name=".Tes2" />
+        <activity android:name=".JSONActivity" />
+        <activity android:name="com.example.loadimage.ANR_Activity" />
+        <activity android:name="com.example.loadimage.AndroidHTTPRequestsActivity" />
+        <activity
+            android:name=".WebViewActivity"
+            android:theme="@android:style/Theme.NoTitleBar" />
+        <activity android:name="com.androidhive.androidsqlite.AndroidSQLiteTutorialActivity" />
+        <activity android:name="fr.thibaultKoprowski.android.feedPlayer.feedPlayer" />
+        <activity android:name="in.wptrafficanalyzer.listviewwithxmlpullparser.MainActivityxml" />
+        <activity android:name="com.download.android.CookieActivity" />
+        <activity android:name="com.download.android.DownloadActivity" />
+        <activity android:name="com.download.android.MainActivity" />
+        <activity android:name="com.download.android.UploadActivity" />
+        <activity android:name="com.example.loadimage.Testhttpconnction" >
+        </activity>
+        <activity android:name="com.example.loadimage.IOExceptionExample" >
+        </activity>
+        <activity android:name="com.example.loadimage.FileWriteRead" />
+    </application>
+
+</manifest>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="ga_autoActivityTracking">true</bool>
+    <bool name="ga_reportUncaughtExceptions">true</bool>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Loadimagekhouloud</string>
+    <string name="ga_trackingId">UA-61587103-1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="sql">sql</string>
+    <string name="token">dca545bc78752ae38bafa1b1925cc5e03025aecd2ret</string>
+    <string name="webview">Web view</string>
+</resources>

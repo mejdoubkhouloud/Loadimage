@@ -1,0 +1,216 @@
+[
+    {
+        "outputFile": "D:\\APM_IPLabel\\loadimage2\\loadimage2\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "D:\\APM_IPLabel\\loadimage2\\loadimage2\\app\\src\\main\\res\\values\\analytics.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 2,
+                        "startOffset": 214,
+                        "endColumn": 50,
+                        "endOffset": 262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endColumn": 56,
+                    "endOffset": 160
+                },
+                "from": {
+                    "file": "D:\\APM_IPLabel\\loadimage2\\loadimage2\\app\\src\\main\\res\\values\\analytics.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 2,
+                        "startOffset": 314,
+                        "endColumn": 54,
+                        "endOffset": 366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 165,
+                    "endColumn": 57,
+                    "endOffset": 218
+                },
+                "from": {
+                    "file": "D:\\APM_IPLabel\\loadimage2\\loadimage2\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 223,
+                    "endColumn": 55,
+                    "endOffset": 274
+                },
+                "from": {
+                    "file": "D:\\APM_IPLabel\\loadimage2\\loadimage2\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 279,
+                    "endColumn": 52,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "D:\\APM_IPLabel\\loadimage2\\loadimage2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 168,
+                        "endColumn": 52,
+                        "endOffset": 216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 332,
+                    "endColumn": 54,
+                    "endOffset": 382
+                },
+                "from": {
+                    "file": "D:\\APM_IPLabel\\loadimage2\\loadimage2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 54,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 387,
+                    "endColumn": 55,
+                    "endOffset": 438
+                },
+                "from": {
+                    "file": "D:\\APM_IPLabel\\loadimage2\\loadimage2\\app\\src\\main\\res\\values\\analytics.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 2,
+                        "startOffset": 112,
+                        "endColumn": 53,
+                        "endOffset": 163
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 443,
+                    "endColumn": 52,
+                    "endOffset": 491
+                },
+                "from": {
+                    "file": "D:\\APM_IPLabel\\loadimage2\\loadimage2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 114,
+                        "endColumn": 52,
+                        "endOffset": 162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 496,
+                    "endColumn": 35,
+                    "endOffset": 527
+                },
+                "from": {
+                    "file": "D:\\APM_IPLabel\\loadimage2\\loadimage2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 337,
+                        "endColumn": 32,
+                        "endOffset": 368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 532,
+                    "endColumn": 78,
+                    "endOffset": 606
+                },
+                "from": {
+                    "file": "D:\\APM_IPLabel\\loadimage2\\loadimage2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 219,
+                        "endColumn": 75,
+                        "endOffset": 293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 611,
+                    "endColumn": 44,
+                    "endOffset": 651
+                },
+                "from": {
+                    "file": "D:\\APM_IPLabel\\loadimage2\\loadimage2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 295,
+                        "endColumn": 41,
+                        "endOffset": 335
+                    }
+                }
+            }
+        ]
+    }
+]
