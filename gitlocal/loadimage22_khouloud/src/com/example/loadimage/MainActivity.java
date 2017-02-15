@@ -105,9 +105,6 @@ import android.widget.Toast;
 
 import com.androidhive.androidsqlite.Contact;
 import com.androidhive.androidsqlite.DatabaseHandler;
-import com.iplabel.rummobile.macro.RMCustomTrace;
-import com.iplabel.rummobile.provider.RumMobileAgent;
-import com.iplabel.rummobile.tracing.measurement.RMCategoryTracing;
 
 public class MainActivity extends Activity implements OnClickListener {
 	
@@ -161,7 +158,7 @@ public class MainActivity extends Activity implements OnClickListener {
 		super.onCreate(savedInstanceState);  
 		setContentView(R.layout.activity_main); 
 			  	     
-		RumMobileAgent.SETSCREENNAME("TAG_Principale");
+	
 		 
  		TextView t1 =(TextView)findViewById(R.id.textView1);
 		t1.setPaintFlags(t1.getPaintFlags()| Paint.UNDERLINE_TEXT_FLAG);
@@ -913,9 +910,7 @@ public class MainActivity extends Activity implements OnClickListener {
 
 		case R.id.sql:
 			
-			String resxml=RMCustomTrace.RM_TRACE_METHOD_START("DB");
 			DatabaseHandler db = new DatabaseHandler(MainActivity.this);
-			RMCustomTrace.RM_TRACE_METHOD_STOP(resxml);
 			//String res1=RMCustomTrace.RM_TRACE_METHOD_START(RMCategoryTracing.DATABASE.toString());
 			//db.addContact(new Contact("Ravi", "9100000000"));		  
 
